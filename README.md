@@ -1,7 +1,10 @@
-### Welcome!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am SnowDev.
-
-<br />
+<div align="center" style="position: relative;">
+  <img align="center" src="https://github.com/snowdev1205/snowdev1205/blob/main/github1.jpg" style = "width: -webkit-fill-available;"/>
+  <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Senior Blockchain Full Stack Engineer</h1>
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Blockchain+%7C%7C+Defi+%7C%7C+NFT+Game+Enthusiastic;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="grudev325">
+</p>
 
 As I am a seasoned, detail-driven blockchain full stack developer, always stay hungry, foolish. 
 I have learned all of my skills by myself. I don't like to ask other people what I don't know. I like to learn that others to difficult and I am a person who finds joy
@@ -11,8 +14,6 @@ So I selected the Solana/Rust than Ethereum/Solidity.
 I am also an open-source enthusiast and maintainer. 
 I like to teach others what I know and always respect their opinions.
 
-
-<img align="left" alt="GIF" src="https://github.com/snowdev1205/snowdev1205/blob/main/github.jpg?raw=true"/>
 
 ## Blockchain Skills
 ![](https://img.shields.io/badge/Project-NFTminting-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
