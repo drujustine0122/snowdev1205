@@ -83,7 +83,7 @@ I like to teach others what I know and always respect their opinions.
       <a href="mailto:zogmwatech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">snowdev1205@gmail.com</b>
     </div>
     <div style="display: flex; align-items: center;">
-      <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.738ea6d744d9bc0c</b>
+      <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.c9b5761ea163f7e9</b>
     </div>
   </div>
 <div>
