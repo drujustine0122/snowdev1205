@@ -16,7 +16,6 @@ I like to teach others what I know and always respect their opinions.
 
 
 ## Blockchain Skills
-<a href="https://www.flaticon.com/free-icons/ethereum" title="ethereum icons">Ethereum icons created by YI-PIN - Flaticon</a>
 ![](https://img.shields.io/badge/Project-NFTminting-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Project-NFTstaking-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Project-NFTmarketplace-informational?style=flat&logo=solana&logoColor=white&color=3bac3a)
