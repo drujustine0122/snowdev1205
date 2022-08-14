@@ -2,7 +2,7 @@
 <br>
  <p>
 
-  Creative, Passionate, and Efficient Senior Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain and of over 7 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. 
+  Creative, Passionate, and Efficient Senior Full Stack Developer with over 7 years experience in web , mobile and desktop applications design, development, and maintenance  and  Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from  MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. 
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 <br/>
